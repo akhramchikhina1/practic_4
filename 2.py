@@ -5,4 +5,4 @@ if first_word == 'добрый':
     if second_word == 'день!':
         print('Верно')
 else:
-    print('Неерно')
+    print('Неверно')
