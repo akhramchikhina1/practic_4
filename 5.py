@@ -5,3 +5,4 @@ if hero_first==('') and hero_second==(''):
     print('Верно')
 else:
     print('Неверно')
+#полуж
